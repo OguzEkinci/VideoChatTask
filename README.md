@@ -15,7 +15,7 @@ This is a VideoChat application built using React Native and WebRTC, allowing us
 
     ```sh
     git clone https://github.com/yourusername/videochat-app.git
-    cd videochat-app
+    cd VideoChatApp
     ```
 
 2. **Install dependencies:**
